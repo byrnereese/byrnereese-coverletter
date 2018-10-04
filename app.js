@@ -1,4 +1,4 @@
-# Cover Letter App for npmjs
+// Cover Letter App for npmjs
 
 console.log("Dear npmjs:");
 console.log("I am a hacker and a maker.");

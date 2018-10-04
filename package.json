@@ -1,0 +1,15 @@
+{
+  "name": "byrnereese-coverletter",
+  "version": "1.0.0",
+  "description": "A simple application to express my interest in joining the nppmjs team.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/byrnereese/byrnereese-coverletter"
+  },
+  "author": "Byrne Reese",
+  "license": "MIT"
+}
